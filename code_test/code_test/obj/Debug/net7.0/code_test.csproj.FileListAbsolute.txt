@@ -1,0 +1,15 @@
+/Users/sofiastromberg/Projects/code_test/code_test/bin/Debug/net7.0/code_test
+/Users/sofiastromberg/Projects/code_test/code_test/bin/Debug/net7.0/code_test.deps.json
+/Users/sofiastromberg/Projects/code_test/code_test/bin/Debug/net7.0/code_test.runtimeconfig.json
+/Users/sofiastromberg/Projects/code_test/code_test/bin/Debug/net7.0/code_test.dll
+/Users/sofiastromberg/Projects/code_test/code_test/bin/Debug/net7.0/code_test.pdb
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.csproj.AssemblyReference.cache
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.AssemblyInfoInputs.cache
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.AssemblyInfo.cs
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.csproj.CoreCompileInputs.cache
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.dll
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/refint/code_test.dll
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.pdb
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/code_test.genruntimeconfig.cache
+/Users/sofiastromberg/Projects/code_test/code_test/obj/Debug/net7.0/ref/code_test.dll
